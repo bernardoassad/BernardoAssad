@@ -12,7 +12,7 @@ ___
    <p>"Eu gosto do impossível, pois lá a concorrência é menor" - Walt Disney</p>
 </div>
 
-Atualmente no último ano de Sistemas de Informações na FIAP, e atuando como Desenvolvedor FullStack. Na área de programação tenho trabalhos com Flutter, JavaScript, Python, PHP, Laravel, Zend, WordPress e Kotlin além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Python e Inteligência Artificial. Também tenho interesse na área de Engenharia de Dados.
+Com 6 anos de experiência na área, formado em Sistemas de Informações na FIAP, e atuando como Desenvolvedor FullStack. Na área de programação tenho trabalhos com Flutter, JavaScript, Python, PHP, Laravel, Zend, WordPress e Kotlin além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Python e Inteligência Artificial. Também tenho interesse na área de Engenharia de Dados.
 
 &nbsp;
 
